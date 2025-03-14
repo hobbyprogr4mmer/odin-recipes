@@ -1,0 +1,13 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    font-weight: 800;
+    color: white;
+}
+
+body > li, a {
+    font-weight: 100;
+    color: white;
+    text-decoration: none;
+}
+
